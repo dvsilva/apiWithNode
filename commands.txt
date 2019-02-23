@@ -1,0 +1,7 @@
+// installing mongo on docker
+docker run --name mongonode -p 27017:27017 -d -t mongo
+// access
+localhost:27017
+
+// install nosql ORM
+yarn add mongoose
