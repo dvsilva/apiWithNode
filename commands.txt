@@ -14,3 +14,6 @@ yarn add jsonwebtoken
 
 // require-dir p nao precisar importar controllers manualmente
 yarn add require-dir
+
+// paginator
+yarn add mongoose-paginate
