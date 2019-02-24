@@ -17,3 +17,33 @@ yarn add require-dir
 
 // paginator
 yarn add mongoose-paginate
+
+// send emails node mailer
+yarn add nodemailer
+// mail trap [desenv]
+// https://mailtrap.io/
+
+// template for emails
+yarn add nodemailer-express-handlebars express-handlebars
+
+// install redis for queue
+docker run --name noderedis -p 6379:6379 -d -t redis:alpine
+
+// installing kue
+yarn add kue
+
+// add validatons
+yarn add joi
+yarn add express-validation
+
+// handler validation
+yarn add youch
+
+// evniar erro das promisses pro exception handler
+yarn add express-async-handler
+
+// sentry
+yarn add @sentry/node
+
+//
+yarn add dotenv
