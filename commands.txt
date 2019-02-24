@@ -11,3 +11,6 @@ yarn add bcryptjs
 
 // jsonwebtoken
 yarn add jsonwebtoken
+
+// require-dir p nao precisar importar controllers manualmente
+yarn add require-dir
