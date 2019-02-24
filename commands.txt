@@ -6,3 +6,8 @@ localhost:27017
 // install nosql ORM
 yarn add mongoose
 
+// bcryptjs
+yarn add bcryptjs
+
+// jsonwebtoken
+yarn add jsonwebtoken
